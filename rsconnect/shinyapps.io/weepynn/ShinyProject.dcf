@@ -1,0 +1,12 @@
+name: ShinyProject
+title: ShinyProject
+username:
+account: weepynn
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 369885
+bundleId: 1455837
+url: https://weepynn.shinyapps.io/ShinyProject/
+when: 1530258829.73995
+asMultiple: FALSE
+asStatic: FALSE
